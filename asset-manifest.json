@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/watch-it/static/css/main.904cabae.chunk.css",
+    "main.js": "/watch-it/static/js/main.5453fa19.chunk.js",
+    "main.js.map": "/watch-it/static/js/main.5453fa19.chunk.js.map",
+    "runtime-main.js": "/watch-it/static/js/runtime-main.f5eb5bb5.js",
+    "runtime-main.js.map": "/watch-it/static/js/runtime-main.f5eb5bb5.js.map",
+    "static/js/2.86213445.chunk.js": "/watch-it/static/js/2.86213445.chunk.js",
+    "static/js/2.86213445.chunk.js.map": "/watch-it/static/js/2.86213445.chunk.js.map",
+    "index.html": "/watch-it/index.html",
+    "precache-manifest.36abb1cdbf754cb4db0f3f02a126fe28.js": "/watch-it/precache-manifest.36abb1cdbf754cb4db0f3f02a126fe28.js",
+    "service-worker.js": "/watch-it/service-worker.js",
+    "static/css/main.904cabae.chunk.css.map": "/watch-it/static/css/main.904cabae.chunk.css.map",
+    "static/js/2.86213445.chunk.js.LICENSE.txt": "/watch-it/static/js/2.86213445.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5eb5bb5.js",
+    "static/js/2.86213445.chunk.js",
+    "static/css/main.904cabae.chunk.css",
+    "static/js/main.5453fa19.chunk.js"
+  ]
+}
